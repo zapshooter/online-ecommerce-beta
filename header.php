@@ -122,9 +122,9 @@ session_start();
 			<div id="top-header">
 				<div class="container">
 					<ul class="header-links pull-left">
-						<li><a href="#"><i class="fa fa-phone"></i> +91-9535688928</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i> puneethreddy951@gmail.com</a></li>
-						<li><a href="#"><i class="fa fa-map-marker"></i>Bangalore</a></li>
+					<li><a href="#"><i class="fa fa-map-marker"></i>Haridwar, Uttarakhand</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>+91-9887501224</a></li>
+									<li><a href="#"><i class="fa fa-envelope-o"></i>anujgusain2001@gmail.com</a></li>
 					</ul>
 					<ul class="header-links pull-right">
 						<li><a href="#"><i class="fa fa-inr"></i> INR</a></li>
@@ -209,7 +209,7 @@ session_start();
 							<div class="header-ctn">
 								<!-- Wishlist -->
 								<div>
-									<a href="https://github.com/puneethreddyhc">
+									<a href="https://github.com/zapshooter">
 										<i class="fa fa-github"></i>
 										<span>Github</span>
 										

@@ -10,9 +10,9 @@
 								<h3 class="footer-title">About Us</h3>
 								<p>This is my Small Database Management System mini project</p>
 								<ul class="footer-links">
-									<li><a href="#"><i class="fa fa-map-marker"></i>Bangalore ,Kumbalagodu</a></li>
-									<li><a href="#"><i class="fa fa-phone"></i>+91-9535688928</a></li>
-									<li><a href="#"><i class="fa fa-envelope-o"></i>puneethreddy951@gmail.com</a></li>
+									<li><a href="#"><i class="fa fa-map-marker"></i>Haridwar, Uttarakhand</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i>+91-9887501224</a></li>
+									<li><a href="#"><i class="fa fa-envelope-o"></i>anujgusain2001@gmail.com</a></li>
 								</ul>
 							</div>
 						</div>
@@ -26,9 +26,7 @@
 								<li><a href="#"><i class="fa fa-cc-amex"></i></a></li>
 							</ul>
 							<span class="copyright">
-								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-								Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank">PuneethRdddyHC</a>
-							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 							</span>
 						</div>
 
